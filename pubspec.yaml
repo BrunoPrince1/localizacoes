@@ -1,0 +1,29 @@
+name: localizacoes
+description: "Coleta e visualização de localizações - Atividade 1 de PDM II (FATEC Jacareí)."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_map: ^8.2.2
+  geolocator: ^14.0.2
+  intl: ^0.20.2
+  latlong2: ^0.9.1
+  path: ^1.9.1
+  path_provider: ^2.1.5
+  permission_handler: ^12.0.1
+  sqflite: ^2.4.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/
