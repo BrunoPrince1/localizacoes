@@ -5,7 +5,7 @@ Atividade 1 de **Programação para Dispositivos Móveis II** — Prof. Arley �
 ## Integrantes
 
 - André Luis Alves Ramos Junior — RA 2581392423044
-- _(nome da dupla, se houver)_
+- Bruno Prince Maria — RA 2581392423034
 
 ## O que o app faz
 
